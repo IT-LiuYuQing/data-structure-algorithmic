@@ -13,5 +13,8 @@ class DataStructureAlgorithmicApplicationTests {
 	void contextLoads() {
 		sparseArray.sparseArray();
 	}
-
+	@Test
+	void contextLoads1() {
+		sparseArray.sparseArray();
+	}
 }
